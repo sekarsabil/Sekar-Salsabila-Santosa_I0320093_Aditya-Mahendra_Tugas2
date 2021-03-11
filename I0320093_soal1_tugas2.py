@@ -1,5 +1,5 @@
 #Menghitung Luas Persegi Panjang
-print("Menghitung Luas Persegi Panjang")
+print("====Menghitung Luas Persegi Panjang====")
 
 ##Input Besaran Panjang dan Lebar
 P = float(input("Masukkan Panjang :"))
@@ -14,7 +14,7 @@ print("L :", Luas_Persegi_Panjang)
 
 
 #Menghitung Luas Lingkaran
-print("Menghitung Luas Lingkaran")
+print("====Menghitung Luas Lingkaran====")
 
 ##Input Besaran Panjang dan Lebar
 Phi = 3.14
@@ -29,13 +29,13 @@ print("L =", Luas_Lingkaran)
 
 
 #Menghitung Luas Kubus
-print("Menghitung Luas Kubus")
+print("====Menghitung Luas Kubus====")
 
 ##Input Besaran Panjang Rusuk
-R = float(input("Masukkan Panjang Rusuk :"))
+RP = float(input("Masukkan Panjang Rusuk :"))
 
 #Proses Perhitungan
-Luas_Kubus = (6 * (R ** 2))
+Luas_Kubus = (6 * (RP ** 2))
 
 ##Menampilkan Hasil Perhitungan di Layar
 print("L =", Luas_Kubus)
@@ -43,7 +43,7 @@ print("L =", Luas_Kubus)
 
 
 #Menghitung Konversi Suhu Celcius ke Farenheit
-print("Menghitung Konversi Suhu Celcius ke Farenheit")
+print("====Menghitung Konversi Suhu Celcius ke Farenheit====")
 
 ##Input Besaran Panjang dan Lebar
 C = float(input("Masukkan Suhu (Celcius) :"))
@@ -57,7 +57,7 @@ print("F =", Suhu_Farenheit)
 
 
 #Menghitung Konversi Suhu Reamur ke Kelvin
-print("Menghitung Konversi Suhu Reamur ke Kelvin")
+print("====Menghitung Konversi Suhu Reamur ke Kelvin====")
 
 ##Input Besaran Panjang dan Lebar
 R = float(input("Masukkan Suhu (Reamur) :"))
