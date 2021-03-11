@@ -21,7 +21,7 @@ Phi = 3.14
 R = float(input("Masukkan Jari-Jari :"))
 
 ##Proses Perhitungan
-Luas_Lingkaran = (Phi ** R)
+Luas_Lingkaran = (Phi * (R ** 2))
 
 ##Menampilkan Hasil Perhitungan di Layar
 print("L =", Luas_Lingkaran)
